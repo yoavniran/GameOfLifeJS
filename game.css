@@ -42,11 +42,11 @@ font-weight: bold;
     box-shadow: 1px 2px 3px 2px #888;}
 
 #gameContainer {
-    position: relative; top:20px; width:100%;
+    position: relative; top:60px; width:100%;
 }
 
 #gameContainer table {
-    left:10%; position: relative; margin-bottom: 50px;
+    left:5%; position: relative; margin-bottom: 50px;
     box-shadow: 2px 2px 2px 2px #333;
 }
 
