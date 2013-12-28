@@ -2,7 +2,7 @@ var board;
 
 (function(){
 
-    var boardSize = 50;
+    var boardSize = 30;
     var counter, gameHandler = -1;
 
     function initialize(){
